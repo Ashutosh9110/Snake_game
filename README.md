@@ -1,4 +1,4 @@
-# Snake_game (using turtle and freegames) in Python
+# Snake_game (using turtle and freegames modules) in Python
 
 
 

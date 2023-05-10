@@ -1,6 +1,5 @@
-# Snake_game (using turtle and freegames modules) in Python
+# Snake_game (using turtle and freegames modules) in PythoN
 
+![snake](https://github.com/Ashutosh9110/Snake_game/assets/113494449/c8c4809e-fd65-4718-a49a-086ce57ad23a)
 
-
-
-![image](https://user-images.githubusercontent.com/113494449/237033033-7625f082-e0b9-48a3-8a4e-57dbef68d17b.png)
+# Use arrow key to move!!
